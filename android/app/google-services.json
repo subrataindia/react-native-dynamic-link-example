@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "558082444849",
+    "project_id": "dynamic-links-474ef",
+    "storage_bucket": "dynamic-links-474ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558082444849:android:03467072ba58a1e8838f10",
+        "android_client_info": {
+          "package_name": "com.dynamic_deep_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558082444849-65kncgql0jnjr0756s2fot79rua3s2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRBhuVwXHRQ0fRanv02fB76o1m8zzD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558082444849-65kncgql0jnjr0756s2fot79rua3s2nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558082444849-3a937n3fmvau9tco42e2t4b35k9fbten.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.dynamicdeeplink"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558082444849:android:ce3d2b3e7d0118b0838f10",
+        "android_client_info": {
+          "package_name": "com.sample3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558082444849-65kncgql0jnjr0756s2fot79rua3s2nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRBhuVwXHRQ0fRanv02fB76o1m8zzD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558082444849-65kncgql0jnjr0756s2fot79rua3s2nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558082444849-3a937n3fmvau9tco42e2t4b35k9fbten.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.dynamicdeeplink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
